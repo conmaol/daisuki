@@ -1,8 +1,8 @@
 # 中山
 
-`中山` (`なかやま`) ‘Nakayama’ is a surname.
+`中山` (Hiragana: `なかやま`) ‘Nakayama’ is a [surname](../../../desc/surnames.md).
 
-*qv.* **[中](naka.md)** *n.* ‘inside’, **[山](yama.md)** *n.* ‘a mountain’
+*qv.* **[中](naka.md)** ‘inside’, **[山](yama.md)** ‘a mountain’
 
 
 ----
