@@ -1,6 +1,6 @@
-# naka
+# 中
 
-`naka` (Hiragana: なか) ‘inside, middle’ is a [noun](../../desc/nouns.md).
+`中` (Hiragana: なか) ‘inside, middle’ is a [noun](../../desc/nouns.md).
 
 Compounds:
 - **[中山](nakayama.md)** ‘Nakayama’
