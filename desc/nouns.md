@@ -9,6 +9,7 @@ List of nouns:
 
 Types of noun:
 - [surnames](surnames.md)
+- [country names](country_names.md)
 
 ----
 
