@@ -3,7 +3,7 @@
 `口` (Hiragana: くち) ‘a mouth’ is a [noun](../../../desc/nouns.md).
 
 Compounds:
-- Yamaguchi
+- **[山口](../../y/ya/yamaguchi.md)** [surname]
 
 ----
 
