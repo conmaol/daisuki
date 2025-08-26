@@ -4,7 +4,7 @@
 
 Compounds:
 - **[中山](nakayama.md)** [surname]
-- **[田中](../../t/ta.tanaka.md)** [surname]
+- **[田中](../../t/ta/tanaka.md)** [surname]
 
 ----
 
