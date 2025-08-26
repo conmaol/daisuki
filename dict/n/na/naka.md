@@ -7,7 +7,7 @@ Compounds:
 - **[田中](../../t/ta/tanaka.md)** [surname]
 
 Homographs:
-- **[中](../../ch/chu/chuu.md)** (ちゆう) ‘middle’
+- **[中](../../ch/chu/chuu.md)** (ちゅう) ‘middle’
 
 ----
 
