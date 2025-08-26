@@ -1,10 +1,9 @@
 # 国
 
-`国` (Hiragana: くに) ‘(a) land’ is a noun.
-
+`国` (Hiragana: くに) ‘(a) land’ is a [noun](../../../desc/nouns.md).
 
 Homographs:
-- 国 (こく) ‘a country’ 
+- **[国](../ko/koku.md)** (こく) ‘a country’ 
 
 ----
 
