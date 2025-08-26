@@ -1,7 +1,12 @@
 # 国
 
+`国` (Hiragana: こく) ‘a country’ is a [noun](../../../desc/nouns.md).
 
-中国
+Compounds:
+- **[中国](../../ch/chu/chuugoku.md)** ‘China’
+
+Homographs:
+- **[国](../ku/kuni.md)** (くに) ‘(a) land’
 
 ----
 
