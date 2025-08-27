@@ -13,6 +13,7 @@ List of nouns:
 Types of noun:
 - [surnames](surnames.md)
 - [country names](country_names.md)
+- [compound_nouns](compound_nouns.md)
 
 ----
 
