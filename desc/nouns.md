@@ -2,6 +2,7 @@
 
 List of nouns:
 - **[中](../dict/ch/chu/chuu.md)** ‘middle’
+- **[語](../dict/g/go/go.md)** ‘a language’
 - **[国](../dict/k/ko/koku.md)** ‘a country’
 - **[口](../dict/k/ku/kuchi.md)** ‘a mouth’
 - **[国](../dict/k/ku/kuni.md)** ‘(a) land’
